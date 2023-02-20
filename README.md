@@ -60,8 +60,6 @@ The comments were annotated in the two csv files (train and test) obtained from 
 
 ### Training
 
-My training notebooks for the masked langauge modelling objective and the token classification objective can be found [here]() and [here]().
-
 Masked language modelling objective:
 
 - Loaded the `unsupervised_comments` pickle file.
