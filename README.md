@@ -93,3 +93,6 @@ The criterion used for model evaluation in this case was Precision, Recall and F
 
 The precision achieved on the validation datset was 98.78%, F-score was 93.10% and Recall was 88.04%. The same for the test set equalled 93.8%, 79.8% and 86.2% respectively. 
 
+## Demonstration
+
+The demonstration of the project pipeline can be found [here](./get_line_length.ipynb). I have not uploaded the model notebooks and the data files (due to their large sizes), but the files obtained after training the ML model for Masked Language Modelling objective can be found within a directory linked in the project demo file itself. 
